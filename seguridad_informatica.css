@@ -1,0 +1,280 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1)), url("../imagenes_y_videos/imagenes/Paisajes/calavera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+
+.conteiner{
+    float:left;
+    background-color: #09456c;
+    position: fixed;
+    width: 200px;
+    height: 100vh;
+    opacity: 20%; 
+    font-size: 35px;
+    margin-right: 25px;
+
+}
+
+.links{
+    position:fixed;
+    float:left ;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+
+div ul p{
+    color: #aa00ff;
+    font-size: 70px;
+    text-shadow: 0 0 30px #d112d1,
+    0 0 50px #ff00c8,
+    0 0 50px #d126ac;
+}
+
+div ul li{
+    color: #141ae2;
+    font-size: 30px;
+    
+
+}
+
+.titulo{
+    color:rgb(3, 255, 3);
+    display: block;
+    font-size:80px;
+    margin-left: 30%;
+    padding: 25px;
+    font-family: "Helvetica Neue",  "Helvetica  Neue",  Helvetica, Arial, sans-serif;
+    animation: 1s ease-in-out infinite alternate;
+    text-shadow: 0 0 30px #85FF64,
+                             0 0 50px #2BBF03,
+                             0 0 50px #141ae2;
+}
+
+
+.sub{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 47%;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.Seguridad{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 250px ;
+    text-align: center;
+    
+}
+
+.importante{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left:26%;
+    font-size: 50px;
+    margin-top: 500px;
+}
+
+.imp{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+}
+
+.elementos{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 33%;
+    font-size: 50px;
+    margin-top: 300px;
+}
+
+.elm{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+    margin-top: 100px;
+}
+.puntos{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 280px ;
+    text-align: center;
+    margin-top: 180px;
+
+}
+
+.el{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 280px ;
+    text-align: center;
+    margin-top: 500px;
+
+}
+
+.tipos{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 27%;
+    font-size: 50px;
+    margin-top: 700px;
+}
+
+.tip{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.segu{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 35%;
+    font-size: 50px;
+    margin-top: 300px;
+}
+
+.seg{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.red{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 40%;
+    font-size: 50px;
+    margin-top: 500px;
+
+}
+
+.redes{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+
+.hard{
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-left: 45%;
+    font-size: 50px;
+    margin-top: 300px;
+}
+
+.hardware{
+    font-size:30px;
+    color: azure;
+    text-shadow: 0 0 30px #d0eec7,
+                                 0 0 50px #6bad59,
+                                 0 0 50px #030313;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 300px ;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.foot{
+    background-color:#8870ff;
+    position:relative;
+    margin-top: 500px;
+    width: 100vw;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    opacity: 20%;   
+}
+.cont{
+    position:absolute;
+    font-size: 20px;
+    margin-top: -200px;
+    width: 100vw;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.dev{
+    position:absolute;
+    font-size: 25px;
+    margin-top: -50px;
+    width: 100vw;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
