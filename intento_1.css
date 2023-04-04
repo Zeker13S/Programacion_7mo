@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background:url(../imagenes_y_videos/imagenes/Paisajes/monte.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.titulo{
+    margin-left: 35%;
+    font-size: 250%;
+}
+
+.fondo{
+    background:rgb(0, 0, 0);
+    display: flex;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 5px;
+    margin:0px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+.inicio {
+    display: block;
+    border: 0px;
+    margin-right: 30%;
+    font-size: 150%;
+}
+
+.fuji{
+    position: relative;
+    display: inline-block;
+    margin: 25px;
+    padding: 15px;
+}
+
+.santuario{
+    position: absolute;
+    display: inline-block;
+    margin-top: 60px;
+    
+}
+.centrar{
+    float: right;
+    vertical-align: middle;
+    margin-top: 70px;
+}
+
+.templo{
+    float: right;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.con {
+    display: block;
+    border: 0px;
+    font-size: 150%;
+}
+
+.ext {
+    display: block;
+    border: 0px;
+    font-size: 150%;
+    margin-left: 30%;
+    
+
+
+}
+
+footer{
+    background: rgb(0, 0, 0);
+    display: block;
+    justify-content: center;
+    width: 100vw;
+    height: 200px;
+    color: rgb(255, 255, 255);
+}
+
+footer a{
+    font-size: 200%;
+    margin-bottom: 200px;
+}
+
+.ig{
+    margin-left: 30%;
+    margin-right: 20%;
+}
