@@ -1,0 +1,107 @@
+.fondo{
+    background:rgb(4, 0, 255);
+    display: flex;
+    position: fixed;
+    opacity: 60%;
+    z-index: 1;
+    top: 0;
+    justify-content: center;
+    padding: 5px;
+    width: 1000px;
+    height: 150px;
+    margin-left: 450px;
+}
+
+.fondo a{
+    background-color: blue;
+    color: white;
+    font-size: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 25px;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+
+.izq{
+    display: inline-block;
+    background: rgb(255, 0, 200);
+    width: 465px;
+    height: 800px;
+    margin-top: 153px;
+}
+
+.fondo a:hover{
+    background-color: aquamarine;
+    color: yellow;
+}
+
+.img1{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 440px;
+    height: 255px;
+}
+
+.img2{
+    margin-left: 15px;
+    width: 440px;
+    height: 255px;
+}
+
+.img3{
+    margin-left: 15px;
+    width: 440px;
+    height: 255px;
+}
+
+.mid{
+    display:inline-block;
+    position: absolute;
+    background-color: grey;
+    margin-top: 152px;
+    margin-left: 0px;
+    width: 1010px;
+    height: 83vh;
+}
+
+.titulo{
+    background-color: grey;
+    font-size: 50px;
+    margin-left: 280px;
+}
+
+.mid p{
+    background-color: grey;
+    margin: 15px;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.der{
+    display: inline-block;
+    position: absolute;
+    background-color: crimson;
+    overflow: scroll;
+    margin-top: 152px;
+    margin-left: 1010px;
+    width: 450px;
+    height: 820px;
+}
+
+.der ul{
+    background-color: crimson;
+}
+
+.der ul li a{
+    color: black;
+    font-size: 50px;
+    background-color: crimson;
+    
+}
+
+
+.der ul li a:hover{
+    background-color: blueviolet;
+    color: aqua;
+}
